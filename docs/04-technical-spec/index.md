@@ -6,4 +6,4 @@
 - [技术选型 (Tech Stack)](tech-stack.md)
 - [TimescaleDB 调研 (Research)](timescaledb-research.md) / [中文版](timescaledb-research-zh.md)
 - [Redis 调研 (Research)](redis-research.md) / [中文版](redis-research-zh.md)
-- [数据库设计](database-design.md) (待补充)
+- [数据库设计](database-design.md)
